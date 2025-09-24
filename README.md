@@ -30,3 +30,10 @@ It includes:
    git clone https://github.com/AlaaEmadDev/Breast-Cancer-Prediction.git
 # Breast-Cancer-Prediction
 Breast Cancer Prediction and Analysis using Machine Learning
+## 📸 Screenshots
+
+Here are some results and visualizations from the project:
+
+![Correlation Heatmap](screenshots/Screenshot_2025-09-22_115616.png)
+![Distribution Plot](screenshots/Screenshot_2025-09-22_115624.png)
+![Model Predictions](screenshots/Screenshot_2025-09-22_133121.png)
